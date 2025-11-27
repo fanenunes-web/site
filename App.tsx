@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AnimatePresence } from 'framer-motion';
-import Navigation from './components/Navigation';
+import Navigation from './components/Navigation/Navigation';
 import Hero from './components/Hero';
 import VideoFeed from './components/VideoFeed';
 import Columnists from './components/Columnists';
